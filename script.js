@@ -51,3 +51,5 @@ class Employee extends Person {
 let emliy = new Employee('Emliy', 22, 'Desioner', 'TCS');
 emliy.Details();
 emliy.display();
+const madhu =new Employee('Madhu',21,'developer','ibm');
+madhu.Details();
